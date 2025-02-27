@@ -20,7 +20,7 @@ Para o uso desse script, são necessário dois arquivos auxiliares:
 
 ## Utilizando o Script
 
-O script começa importando as bibliotecas necessárias, inclusive o utilities.py, que deve ficar na mesma pasta do script principal. \
+O script começa importando as bibliotecas necessárias, inclusive o [utilities.py](https://github.com/GHMachado/Plots_Satelite_GOES16/blob/main/utilities.py), que deve ficar na mesma pasta do script principal. \
 
 ### Diretórios
 
