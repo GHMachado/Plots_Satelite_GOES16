@@ -24,22 +24,7 @@ import os
 import pandas as pd
 import time as t  
 import glob
-#from metpy.plots import colortables     # Utilizar para plotar banda 8 - Vapor d'água    
-
-# Substitua o caminho abaixo pelo caminho correto do seu arquivo .csv
-data = pd.read_csv('D:/SIAC/dados/coord.csv', sep=';')
-
-# Acessar as colunas de interesse
-nomes = data['Nome']  # Ajuste o nome da coluna para corresponder ao seu arquivo
-latitudes = data['Latitude']
-longitudes = data['Longitude']
-
-# Gerar uma paleta de cores
-# Lista de símbolos (marcadores) para as estações
-markers = ['o', 'X', 'D']  # Uma variedade de marcadores
-num_markers = len(markers)
-cores = plt.cm.tab10(np.linspace(0, 1, len(nomes)))  # Paleta de cores para as estações            
-
+          
 #%%                  
      
 #========================================================================================================================#
