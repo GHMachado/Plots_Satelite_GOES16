@@ -69,3 +69,6 @@ Ao ler os arquivos e gerar imagens, o código cria arquivos adicionais na pasta 
 
 ### Contribuidores
 
+<a href="https://github.com/GHMachado/Plots_Satelite_GOES16/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GHMachado/Plots_Satelite_GOES16" />
+</a>
