@@ -15,8 +15,8 @@ conda install -c conda-forge xarray cartopy boto3 gdal salem rasterio pyproj geo
 
 Para o uso desse script, são necessário dois arquivos auxiliares:
 
-- utilities.py: Script auxiliar para processamento das imagens.
-- IR4AVHRR6.cpt: Paleta de cores para o Canal-13 utilizado nas imagens do CPTEC.
+- [utilities.py](https://github.com/GHMachado/Plots_Satelite_GOES16/blob/main/plot_sat.py): Script auxiliar para processamento das imagens.
+- [IR4AVHRR6.cpt](https://github.com/GHMachado/Plots_Satelite_GOES16/blob/main/IR4AVHRR6.cpt): Paleta de cores para o Canal-13 utilizado nas imagens do CPTEC.
 
 ## Utilizando o Script
 
