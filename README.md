@@ -67,7 +67,11 @@ Sinta-se a vontade para personalizar o mapa do seu gosto.
 
 Ao ler os arquivos e gerar imagens, o código cria arquivos adicionais na pasta em que os mesmo se encontram. Caso for executar novamente, você precisa excluir esses arquivos adicionais que foram gerados. Caso não faça isso, o código irá tentar ler esses arquivos e dará erro.
 
-### Contribuidores
+## Exemplos de imagens geradas
+
+
+
+## Contribuidores
 
 <a href="https://github.com/GHMachado/Plots_Satelite_GOES16/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GHMachado/Plots_Satelite_GOES16" />
