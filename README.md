@@ -69,6 +69,7 @@ Ao ler os arquivos e gerar imagens, o código cria arquivos adicionais na pasta 
 
 ## Exemplos de imagens geradas
 
+![band_13_08-04-2024 00_00 UTC](https://github.com/user-attachments/assets/8fddea78-6856-4191-af04-21e2337c078a)
 
 
 ## Contribuidores
